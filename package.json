@@ -1,0 +1,25 @@
+{
+  "name": "dwf-n2-desafio-parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mati-galla/dwf-n2-desafio-parcel.git",
+  "author": "mati-galla <matias.jgallardo@gmail.com>",
+  "license": "MIT",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "assert": "^2.0.0",
+    "buffer": "^5.5.0",
+    "constants-browserify": "^1.0.0",
+    "events": "^3.1.0",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0",
+    "util": "^0.12.3"
+  },
+  "dependencies": {}
+}
