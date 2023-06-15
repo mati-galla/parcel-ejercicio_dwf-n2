@@ -8,7 +8,7 @@ function goTo(path) {
 function handleMailLinks() {
   const emailLinkEls = document.querySelectorAll(".email-link");
 
-  for (const [i, link] of emailLinkEls.entries()) {
+  for (const link of emailLinkEls) {
     link.addEventListener("click", (e) => {
       const el = e.currentTarget as HTMLElement;
       const path = location.pathname + "/" + el.id;

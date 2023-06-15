@@ -1,8 +1,8 @@
 4892
-130/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/polygon-1.f1e5191f.svg1686778961385710119 0
-126/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.77a9bc14.css1686778961385710119 0
-118/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.html1686778961385710119 0
-125/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.75320e57.js1686784114377455275 0
+130/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/polygon-1.f1e5191f.svg1686866270565123236 0
+126/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.77a9bc14.css1686866270665118543 0
+118/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.html1686866270669118355 0
+125/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.75320e57.js1686866270669118355 0
 139/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/react-refresh/README.md1683648293302000000 0
 173/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/react-refresh/cjs/react-refresh-runtime.production.min.js1683648293302000000 0
 171/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/react-refresh/cjs/react-refresh-babel.production.min.js1683648293302000000 0
@@ -835,7 +835,7 @@
 162/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/events/tests/set-max-listeners-side-effects.js1685753186124000000 0
 145/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/msgpackr-extract/node_modules1685755457821363833 1
 141/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/msgpackr-extract/index.js1683648292368999000 0
-129/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.75320e57.js.map1686784114393454617 0
+129/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.75320e57.js.map1686866270725115727 0
 167/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/caniuse-lite/data/features/css-container-queries.js1684783965526000000 0
 136/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/msgpackr-extract/src1685755451469655868 1
 140/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/msgpackr-extract/LICENSE1683648292368999000 0
@@ -1158,7 +1158,7 @@
 164/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@swc/helpers/src/_apply_decorated_descriptor.mjs1683648291980999000 0
 146/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@swc/helpers/src/_to_array.mjs1683648291980999000 0
 168/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@swc/helpers/src/_class_extract_field_descriptor.mjs1683648291980999000 0
-126/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.4d722e6a.css1686778961385710119 0
+126/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.4d722e6a.css1686866316110990871 0
 142/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@swc/helpers/src/index.mjs1683648291980999000 0
 158/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@babel/helper-validator-identifier/LICENSE1683648300423000000 0
 167/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/caniuse-lite/data/features/getboundingclientrect.js1684783965526000000 0
@@ -2296,7 +2296,7 @@
 144/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/ordered-binary/tests/test.js1683648290086999000 0
 139/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/domutils/lib/index.d.ts1683648295068000000 0
 134/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/source-map1685755457689369905 1
-107/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist1686784114397454452 1
+107/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist1686866316130989937 1
 158/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/caniuse-lite/data/features/offline-apps.js1684783965526000000 0
 154/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/caniuse-lite/data/features/css-zoom.js1684783965526000000 0
 145/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/stream-browserify/test/buf.js1685753182638000000 0
@@ -2577,7 +2577,7 @@
 132/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/inherits/LICENSE1685753166115999000 0
 172/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/abortcontroller-polyfill/src/abortcontroller-polyfill.js1683648283365999000 0
 143/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/svgo/plugins/removeXMLNS.js1683648290717999000 0
-125/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/css/components.css1685993714220940950 0
+125/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/css/components.css1686866316086991992 0
 147/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/css-tree/lib/tokenizer/const.js1683648293391999000 0
 123/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/timsort1685755444869958818 1
 128/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/chalk/source1685755445605925059 1
@@ -2610,7 +2610,7 @@
 135/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/is-extglob/index.js1683648293286999000 0
 154/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/transformer-babel/node_modules1685755457701369354 1
 155/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/node-resolver-core/package.json1683648293786999000 0
-124/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/scripts/router.ts1686010112395181574 0
+124/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/scripts/router.ts1686841877371345873 0
 129/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/chalk/license1683648282082999000 0
 146/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/cache/src/LMDBCache.js1683648282250999000 0
 133/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/react-refresh/cjs1685755452081627752 1
@@ -2682,7 +2682,7 @@
 152/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/caniuse-lite/data/features/beacon.js1684783965526000000 0
 160/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/reporter-dev-server/src/HMRServer.js1683648282259000000 0
 160/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/caniuse-lite/data/features/css-dir-pseudo.js1684783965526000000 0
-122/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/data/inbox.json1685749649162169112 0
+122/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/data/inbox.json1686859487668658395 0
 133/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/core/test1685755448125809426 1
 146/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/optimizer-htmlnano/src1685755448561789411 1
 140/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/svgo/lib/svgo/jsAPI.d.ts1683648290717999000 0
@@ -2880,7 +2880,7 @@
 137/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/get-intrinsic/.github1685755446657876796 1
 170/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/package-manager/test/fixtures/packages/foo-2.01685755457317387020 1
 133/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/nth-check/LICENSE1683648295092999000 0
-121/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/css/styles.css1685580247614366949 0
+121/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/css/styles.css1686866349053454626 0
 147/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/caniuse-lite/data/regions/GH.js1684783965526000000 0
 181/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/core/test/fixtures/library-custom-scopehoist/package.json1683648282109999000 0
 146/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/escape-string-regexp/readme.md1683648300411999000 0
@@ -3143,7 +3143,7 @@
 131/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/xxhash-wasm/umd1685755452849592461 1
 151/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/runtime-js/src/helpers/node1685755456889406711 1
 143/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/call-bind/test/callBound.js1685753166121000000 0
-130/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.4d722e6a.css.map1686778961397709499 0
+130/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.4d722e6a.css.map1686866316130989937 0
 144/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/htmlnano/lib/presets/safe.js1683648291476000000 0
 142/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/msgpackr/dist/index.js.map1684783964696000000 0
 172/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/utils/test/input/sourcemap/referenced-min.js.map1683648282112999000 0
@@ -3421,12 +3421,12 @@
 158/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/transformer-html/node_modules/.bin1685755457717368617 1
 140/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/packager-svg/lib1685755448785779128 1
 155/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/utils/src/relativeBundlePath.js1683648282112999000 0
-121/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/data/sent.json1685749694523030218 0
+121/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/data/sent.json1686860583279991139 0
 130/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/is-nan/shim.js1685753173464999000 0
 177/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file/src1685755457273389045 1
 143/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/define-properties/README.md1685753173467999000 0
 147/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/caniuse-lite/data/regions/TR.js1684783965526000000 0
-123/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/scripts/index.ts1686784114341456756 0
+123/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/scripts/index.ts1686801491505322060 0
 149/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/caniuse-lite/data/features/rem.js1684783965526000000 0
 165/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest3.c1683648284885999000 0
 125/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/json5/lib1685755450753688758 1
@@ -3532,7 +3532,7 @@
 158/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/posthtml/node_modules/posthtml-parser/dist1685755452905589888 1
 160/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/runtime-js/lib/helpers/bundle-url.js1683648287020999000 0
 145/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@types/node/ts4.8/crypto.d.ts1685754462897000000 0
-128/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/scripts/components.ts1686774695205845981 0
+128/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/src/scripts/components.ts1686866104676986403 0
 178/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/posthtml/node_modules/posthtml-parser/dist/location-tracker.js1683648293072000000 0
 143/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/bundler-default/lib1685755446809869821 1
 129/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/is-nan/.nycrc1685753173464999000 0
@@ -4428,7 +4428,7 @@
 152/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/htmlnano/docs/docs/060-contribute.md1683648291476000000 0
 169/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/transformer-js/node_modules/.bin/browserslist1685755457729368065 0
 168/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/transformer-js/parcel-swc.linux-x64-gnu.node1683648287948999000 0
-130/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.77a9bc14.css.map1686778961393709705 0
+130/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/dist/index.77a9bc14.css.map1686866270681117792 0
 147/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/caniuse-lite/data/regions/VA.js1684783965526000000 0
 147/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/caniuse-lite/data/regions/BN.js1684783965526000000 0
 198/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-apps/dwf-n2-desafio-parcel/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/sub/a1685755457597374138 1

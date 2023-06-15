@@ -1,4 +1,4 @@
-import { createContent } from "./components";
+import { createInboxSent, createEmailContent } from "./components";
 
 function handleRoute(route) {
   const contentEl = document.querySelector<HTMLElement>(".content");
@@ -9,14 +9,26 @@ function handleRoute(route) {
       path: /\/inbox/,
       handler: () => {
         contentEl.innerHTML = "";
-        contentEl?.appendChild(createContent("inbox", route));
+        contentEl?.appendChild(createInboxSent("inbox"));
       },
     },
     {
       path: /\/sent/,
       handler: () => {
         contentEl.innerHTML = "";
-        contentEl?.appendChild(createContent("sent", route));
+        contentEl?.appendChild(createInboxSent("sent"));
+      },
+    },
+    {
+      path: /\/inbox\/./,
+      handler: () => {
+        createEmailContent("inbox", route);
+      },
+    },
+    {
+      path: /\/sent\/./,
+      handler: () => {
+        createEmailContent("sent", route);
       },
     },
   ];
