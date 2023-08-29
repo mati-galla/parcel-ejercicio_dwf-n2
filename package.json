@@ -1,7 +1,6 @@
 {
   "name": "dwf-n2-desafio-parcel",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "git@github.com:mati-galla/dwf-n2-desafio-parcel.git",
   "author": "mati-galla <matias.jgallardo@gmail.com>",
   "license": "MIT",
